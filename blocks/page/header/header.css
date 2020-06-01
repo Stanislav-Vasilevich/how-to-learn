@@ -4,6 +4,7 @@
 @import url('./__subtitle/header__subtitle.css');
 @import url('./__title/header__title.css');
 @import url('../logo/_place/logo_place_header.css');
+@import url('./__rotation/header__rotation.css');
 
 
 .header {
@@ -15,5 +16,5 @@
   max-height: 756px;
   margin: 0;
   padding: 0;
-  /* выше установили ограничения для секции */
+  overflow: hidden;
 }
