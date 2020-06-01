@@ -2,6 +2,7 @@
 @import url('./digits/digits.css');
 @import url('./feynman/feynman.css');
 @import url('./kaufman/kaufman.css');
+@import url('./techniques/techniques.css');
 
 .content {
   padding: 0;

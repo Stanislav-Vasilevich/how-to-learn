@@ -1,0 +1,7 @@
+@import url('./cards/cards.css');
+@import url('./section-title/section-title.css');
+@import url('./section-subtitle/section-subtitle.css');
+
+.techniques {
+  margin: 100px auto 0;
+}
