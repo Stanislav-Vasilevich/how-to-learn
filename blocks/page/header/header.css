@@ -3,7 +3,11 @@
 @import url('./__square-pic/header__square-pic.css');
 @import url('./__subtitle/header__subtitle.css');
 @import url('./__title/header__title.css');
+<<<<<<< HEAD
 @import url('../logo/_place/logo_place_header.css');
+=======
+@import url('./logo/_place/logo_place_header.css');
+>>>>>>> 874ac7971ce95b0f43fc8b15bfecb2cfbae96850
 
 
 .header {
