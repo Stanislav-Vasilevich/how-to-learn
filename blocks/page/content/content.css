@@ -6,6 +6,7 @@
 @import url('./video/video.css');
 @import url('./oakley/oakley.css');
 @import url('./khan/khan.css');
+@import url('./resources/resources.css');
 
 .content {
   padding: 0;
