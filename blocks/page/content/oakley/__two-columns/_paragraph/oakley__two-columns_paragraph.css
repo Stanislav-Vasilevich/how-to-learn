@@ -1,0 +1,12 @@
+.oakley__two-columns_paragraph {
+  list-style: none;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.oakley__two-columns_paragraph:last-child {
+  padding-bottom: 0;
+}

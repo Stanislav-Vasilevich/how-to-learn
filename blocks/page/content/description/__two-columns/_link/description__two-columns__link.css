@@ -1,10 +1,9 @@
-.header__link {
+.description__two-columns_link {
   text-decoration: none;
   color: #2f80ed;
   transition: .4s linear;
-
 }
 
-.header__link:hover {
+.description__two-columns_link:hover {
   opacity: .5;
 }

@@ -1,0 +1,10 @@
+@import url('./_brief/oakley__two-columns_brief.css');
+@import url('./_link/oakley__two-columns_link.css');
+@import url('./_main-text/oakley__two-columns_main-text.css');
+@import url('./_paragraph/oakley__two-columns_paragraph.css');
+
+.oakley__two-columns {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}

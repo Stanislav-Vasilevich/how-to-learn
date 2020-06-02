@@ -4,6 +4,6 @@
   margin: 0 20px 0 0;
 }
 
-.video__iframe:nth-of-type(2n) {
+.video__iframe:last-of-type {
   margin-right: 0;
 }
