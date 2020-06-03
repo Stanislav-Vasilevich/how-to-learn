@@ -1,0 +1,13 @@
+@import url('./_theme/table__text_theme_dark.css');
+
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0 auto 20px;
+  padding: 0;
+}
+
+.table__text:nth-of-type(2n) {
+  margin: 0;
+}

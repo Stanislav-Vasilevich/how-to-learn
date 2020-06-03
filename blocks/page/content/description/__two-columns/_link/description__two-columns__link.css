@@ -1,9 +1,0 @@
-.description__two-columns_link {
-  text-decoration: none;
-  color: #2f80ed;
-  transition: .4s linear;
-}
-
-.description__two-columns_link:hover {
-  opacity: .5;
-}
