@@ -1,6 +1,6 @@
-@import url('./_theme/table__cell_theme_dark.css');
-@import url('./_theme/table__cell_theme_white.css');
-
 .table__cell {
   list-style: none;
+  width: 250px;
+  padding: 0;
+  margin-top: 60px;
 }
